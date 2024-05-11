@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/object-and-distance.iml" filepath="$PROJECT_DIR$/.idea/modules/object-and-distance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/object-and-distance.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/object-and-distance.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/object-and-distance.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/object-and-distance.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/object-and-distance.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/object-and-distance.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/object-and-distance.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/object-and-distance.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tensorflow-lite/object-and-distance.tensorflow-lite.iml" filepath="$PROJECT_DIR$/.idea/modules/tensorflow-lite/object-and-distance.tensorflow-lite.iml" />
+    </modules>
+  </component>
+</project>
